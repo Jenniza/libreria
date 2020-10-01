@@ -1,0 +1,26 @@
+body {
+	margin: 0px;
+    padding: 0px;
+
+}
+
+div.contenedor{
+  margin: auto;
+    padding: 60px;
+    width: auto;
+    height:auto;
+    float:left;
+    text-align: left;
+    align-content: center;
+    
+}
+.art{
+    margin: 5px;
+    margin: auto;
+    padding: 60px;
+    width: auto;
+    height:auto;
+    float:center;
+    align-content: center;
+    
+}
